@@ -1,5 +1,4 @@
 # Cabrillo CIS-91 Carter's Course Files 
 
-This is a work in progress.
+Original author: Mike Matera
 
-Author: Mike Matera
