@@ -1,4 +1,4 @@
-# Cabrillo CIS-91 Public Course Files 
+# Cabrillo CIS-91 Carter's Course Files 
 
 This is a work in progress.
 
